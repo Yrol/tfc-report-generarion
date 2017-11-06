@@ -1,0 +1,6 @@
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\bin\Release\DueContractEmail.exe.config
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\bin\Release\DueContractEmail.exe
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\bin\Release\DueContractEmail.pdb
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\obj\Release\DueContractEmail.csprojResolveAssemblyReference.cache
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\obj\Release\DueContractEmail.exe
+C:\Users\Yrol Fernando\documents\visual studio 2015\Projects\DueContractEmail\DueContractEmail\obj\Release\DueContractEmail.pdb
